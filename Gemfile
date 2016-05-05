@@ -45,5 +45,7 @@ group :development do
   gem 'spring'
 
   gem 'clearance'
+
+  gem 'figaro'
 end
 
